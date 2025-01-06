@@ -1,0 +1,2 @@
+200.0 Taka is Cash In for Restaurant No.: 01
+500.0 Taka is Cash Out from Shop No: 01
